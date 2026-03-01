@@ -1,5 +1,5 @@
 name: Build Android APK
-on: [push] # سيبدأ بناء التطبيق تلقائياً بمجرد ضغطك على حفظ
+on: [push]
 
 jobs:
   build:
